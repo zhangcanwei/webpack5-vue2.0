@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Hello 兄嘚</h1>
+    <h1>Hello 兄嘚!</h1>
 
     <router-view></router-view>
   </div>
